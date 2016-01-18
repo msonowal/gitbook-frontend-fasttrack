@@ -9,4 +9,5 @@
        * [HTML Layouts](html_layouts.md)
        * [HTML Tags](html_tags.md)
 * Level 2
+   * CSS Intermediate
 
