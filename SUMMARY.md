@@ -20,4 +20,5 @@
    * Career Classroom
        * [Communication Skills](communication_skills.md)
        * [Cracking Aptitude test](cracking_aptitude_test.md)
+       * Resume Preparation
 
