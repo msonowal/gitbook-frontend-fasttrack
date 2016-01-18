@@ -8,7 +8,6 @@
        * [Text editor](text_editor.md)
        * [HTML Layouts](html_layouts.md)
        * [HTML Tags](html_tags.md)
-* Career Level
 * Level 2
    * CSS Intermediate
        * [CSS Refresher](css_refresher.md)
@@ -18,4 +17,5 @@
        * [True to Form](true_to_form.md)
        * [Tables](tables.md)
    * Career Level
+* Career Level
 
