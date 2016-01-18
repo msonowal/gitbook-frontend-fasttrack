@@ -21,5 +21,5 @@
        * [Communication Skills](communication_skills.md)
        * [Cracking Aptitude test](cracking_aptitude_test.md)
        * Resume Preparation
-           * Your Linkedin Resume
+           * [Your Linkedin Resume](your_linkedin_resume.md)
 
