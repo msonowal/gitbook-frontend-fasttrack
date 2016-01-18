@@ -6,4 +6,5 @@
    * HTML and CSS basics
        * [HTML and CSS basics objectives](html_and_css_basics_objectives.md)
        * [Text editor](text_editor.md)
+       * HTML Layouts
 
