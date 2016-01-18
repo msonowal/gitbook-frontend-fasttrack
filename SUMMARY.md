@@ -11,4 +11,5 @@
 * Level 2
    * CSS Intermediate
        * [CSS Refresher](css_refresher.md)
+       * Another look at CSS Selectors
 
