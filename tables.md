@@ -11,7 +11,7 @@ So take this opportunity to study Chris Coyier's [Complete Guide to the Table El
 
 Here is an example of a basic table and its corresponding code:
 
-![basic table example](basic_table.png) 
+ ![](basic_table.png)
 
 **HTML:**
 ```
