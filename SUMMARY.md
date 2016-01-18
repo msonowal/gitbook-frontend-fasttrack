@@ -5,4 +5,5 @@
 * [Level 1](chapter1.md)
    * HTML and CSS basics
        * HTML and CSS basics objectives
+       * Text editor
 
