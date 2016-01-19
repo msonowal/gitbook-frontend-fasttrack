@@ -8,7 +8,7 @@
        * [Text editor](text_editor.md)
        * [HTML Layouts](html_layouts.md)
        * [HTML Tags](html_tags.md)
-* Level 2
+* [Level 2](level_2.md)
    * CSS Intermediate
        * [CSS Refresher](css_refresher.md)
        * [Another look at CSS Selectors](another_look_at_css_selectors.md)
