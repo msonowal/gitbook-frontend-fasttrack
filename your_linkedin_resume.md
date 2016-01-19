@@ -20,7 +20,7 @@ Move the Projects section just below your summary, and add your Opteamize projec
 * 
 Talk about what the projects do and what technologies you used.
 * 
-Next, list your previous jobs under Experience, with a short description of what you did at each role. 
+Next, list your previous jobs under experience, with a short description of what you did at each role. 
 * 
 Add Opteamize to your Education section, and move that section to come after your Experience section. Write a little bit about what you're learning and doing at Opteamize.  
 * 
