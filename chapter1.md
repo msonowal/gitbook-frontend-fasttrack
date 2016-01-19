@@ -1,7 +1,7 @@
 #Level 1
 
 ##Index
-1. HTML and CSS basics
+1. **HTML and CSS basics**
     * HTML and CSS basics objectives
     * Text editor
     * HTML Layouts
@@ -27,13 +27,13 @@
     * Theme practice
     * Grid system and responsive design
     * Grid, theme, and media query practice
-2. Introduction to Git
+2. **Introduction to Git**
     * README template
     * Git clone
     * Git with Teams
     * Git cheat sheet
     * GitHub Pages
-3. JavaScript basics
+3. **JavaScript basics**
     * JavaScript basics objectives
     * Arithmetic
     * Arithmetic practice
@@ -62,7 +62,7 @@
     * Debugging in JavaScript
     * JavaScript code review
     * JS JSON 
-4. jQuery
+4. **jQuery**
     * jQuery objectives
     * Introducing jQuery
     * jQuery practice
