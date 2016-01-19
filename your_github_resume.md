@@ -1,8 +1,7 @@
 # Your Github Resume
 
 
-## 
-**GitHub Is Your Resume Now**
+## **GitHub Is Your Resume Now**
 
 
 If you’re a programmer, the days of sending a CV when you apply for a job are quickly coming to an end, if they haven’t already. No one really wants to see your poorly formatted, badly designed Microsoft Word template filled with irrelevant information you’ve carefully curated to make you look like the best programmer ever, least of all me. I just want to see what you’ve built and how you built it, and the best way to see that is by looking at your GitHub account.
@@ -38,6 +37,6 @@ The work you did a year or more ago couldn’t possibly still be relevant today.
 
 Quantity never trumps quality. If I see a few projects with mediocre code I just extrapolate and assume all the projects are mediocre and stop looking. I’d rather see two really good projects and nothing else than eight mediocre ones mixed in with three good ones. Only add projects to your account if you truly think it’s great or useful work.
 
-Like it or not, GitHub is your resume now, and the projects you choose to show tell everything about you, especially where you are spending your time and how wisely. Don’t waste your time building unimportant things. Identify a serious problem and write some really good, well-tested code that makes it better. Then put it on GitHub so the world can see, keeping in mind the issues I just outlined. Take good care of your GitHub account and it will take good care of you.
+Like it or not, GitHub is your resume now, and the projects you choose to show tell everything about you, especially where you are spending your time and how wisely. Don’t waste your time building unimportant things. Identify a serious problem and write some really good, well-tested code that makes it better. Then put it on GitHub so the world can see, keeping in mind the issues we just outlined. Take good care of your GitHub account and it will take good care of you.
 
 - This article is credited to Brandon Weiss of anti-pattern.com
