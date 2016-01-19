@@ -13,7 +13,7 @@ We have built the best platform out there to help you secure that dream job. We 
 1. Profile dashboard consisting of resume generator, course calendar, Assessment reports, etc.
 2. Assessment Module including 3 types of assessments - Psychometric (Fit for IT, Multiple Intelligence), technical (Javascript, Angularjs, Android) and aptitude (arithmetic, reasoning, verbal).
 3. Course Book based on international coding school curriculum and video supported exercises for Frontend Developer and Android Developer.
-4. Coding Practice Module with technology videos, coding editor with feedback engine, Flipcards (Flash cards).
+4. Coding Practice Module with technology videos, coding editor with feedback engine, Flipcards (Flash cards with a twist).
 5. Live Project Module with ability to practice, build and host mobile and web apps on IBM Cloud.
 6. Job Tracker Module with personalized interview calendar and job status tracker.
 
