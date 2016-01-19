@@ -10,7 +10,7 @@ Opteamize Coding School calls upon students to dedicate themselves to their grow
 **What will the Platform provide you**
 
 We have built the best platform out there to help you secure that dream job. We hope you will make full use of it. 
-1. Profile dashboard consisting of resume generator, course calendar, job notification, IT trends, Assessment reports, etc.
+1. Profile dashboard consisting of resume generator, course calendar, Assessment reports, etc.
 2. Assessment Module including 3 types of assessments - Psychometric (Fit for IT, Multiple Intelligence), technical (Javascript, Angularjs, Android) and aptitude (arithmetic, reasoning, verbal).
 3. Course Book based on international coding school curriculum and video supported exercises for Frontend Developer and Android Developer.
 4. Coding Practice Module with technology videos, coding editor with feedback engine, Flipcards (Flash cards).
