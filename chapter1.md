@@ -1,7 +1,7 @@
 #Level 1
 
 ##Index
-
+1. HTML and CSS basics
 * HTML and CSS basics objectives
 * Text editor
 * HTML Layouts
@@ -27,6 +27,7 @@
 * Theme practice
 * Grid system and responsive design
 * Grid, theme, and media query practice
+2. Introduction to Git
 * README template
 * Git clone
 * Git with Teams
