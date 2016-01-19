@@ -19,7 +19,6 @@
 * Career Level
    * Career Classroom
        * [Communication Skills](communication_skills.md)
-       * [Cracking Aptitude test](cracking_aptitude_test.md)
        * Resume Preparation
            * [Your Linkedin Resume](your_linkedin_resume.md)
            * [Your Github Resume](your_github_resume.md)
