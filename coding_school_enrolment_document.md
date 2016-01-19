@@ -19,8 +19,7 @@ We have built the best platform out there to help you secure that dream job. We 
 
 
 **Our Commitment to you**  
-We will help you learn skills commonly used in software development. However these may change over time.
-During class time, your instructors will be available as much as possible to answer your questions, review your code, help you with problems, and guide you through the process of learning software development. Once a week, one of your instructors will have a one-on-one session with you.
+We will help you learn skills commonly used in software development. During class time, your instructors will be available as much as possible to answer your questions, review your code, help you with problems, and guide you through the process of learning software development. Once a week, one of your instructors will have a one-on-one session with you.
 
 We feel a personal obligation to help you find a job you love, and as the reputation of Opteamize depends on your success in the job market, it is in our best interest to do whatever we can to help you succeed. Even before the course is over, we will do our best to help you find a job but we can’t guarantee how long it will take you to find a job, or what salary you will receive.
 
