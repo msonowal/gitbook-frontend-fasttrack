@@ -1,7 +1,7 @@
 # Level 2
 
 ##Index
-1. CSS Intermediate
+1. **CSS Intermediate**
     * CSS Refresher Class
     * Another look at CSS Selectors
     * Pseudo-Classes
@@ -10,7 +10,7 @@
     * Tables
     * Turning the Tables
     * Using CSS Image Sprites
-2. Design Layout basics
+2. **Design Layout basics**
     * Basic layout objectives
     * Block vs. Inline Elements
     * Positioning
@@ -23,15 +23,31 @@
     * Framework field day
     * Basic Layout Code Review
     * CSS Assignments
-3. Javascript Intermediate
+3. **Javascript Intermediate**
     * JavaScript BDD objectives
     * Behavior-driven development (BDD)
     * Red-Green-Refactor
     * Refactoring: Functions calling functions
     * JavaScript BDD Code Review: Level 2 Placement Test
-4. Javascript Assignments
-* 
-Leap year, Triangle Tracker, Factorial, Cryptosquare
-Pig Latin, Palindromes, Prime sifting
-Black Jack or Meetup Dates
-99 bottles of coke, Roman numerals, Word Order, Bases
+4. **Javascript Assignments**
+    * Leap year, Triangle Tracker, Factorial, Cryptosquare
+    * Pig Latin, Palindromes, Prime sifting
+    * Black Jack or Meetup Dates
+    * 99 bottles of coke, Roman numerals, Word Order, Bases
+5. **Introduction to AngularJS**
+    * AngularJS objectives
+    * Getting started with AngularJS
+    * Adding methods and forms
+    * Two-way binding
+    * Filtering in Angular
+    * Multiple controllers and factories
+    * Routing and nested states
+6. **Sass**
+    * What is Sass?
+    * Learning Sass
+    * Installing and using Sass
+    * Creating your own grid layout using Sass
+    * Sass Assignment #1
+    * Sass + Bourbon
+    * Sass Assignment #2
+    * Sass Resources
