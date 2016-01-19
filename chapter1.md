@@ -5,7 +5,7 @@
     * HTML and CSS basics objectives
     * Text editor
     * HTML Layouts
-    * HTML basic Tags
+    * HTML basic tags
     * Indentation and spacing
     * Block elements
     * Block elements practice
