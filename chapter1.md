@@ -32,44 +32,45 @@
 * Git with Teams
 * Git cheat sheet
 * GitHub Pages
-JavaScript basics objectives
-Arithmetic
-Arithmetic practice
-Variables
-Variables practice
-Methods
-Methods practice
-Strings
-String practice
-Functions
-Functions practice
-Writing functions
-Practice writing functions
-JavaScript branching and looping objectives
-Branching
-Branching practice
-More branching
-More branching practice
-Arrays
-Arrays practice
-JavaScript Reserved Words
-Looping
-Looping practice
-Looping with for
-For loop practice
-Debugging in JavaScript
-JavaScript code review
-JS JSON 
-jQuery objectives
-Introducing jQuery
-jQuery practice
-Simple effects
-jQuery effects practice
-DOM manipulation and traversal
-DOM manipulation and traversal practice
-Forms
-Forms practice
-Attributes
-jQuery attributes practice
-JQuery Code Review
-More JQuery Practice
+* JavaScript basics objectives
+* Arithmetic
+* Arithmetic practice
+* Variables
+* Variables practice
+* Methods
+* Methods practice
+* Strings
+* String practice
+* Functions
+* Functions practice
+* Writing functions
+* Practice writing functions
+* JavaScript branching and looping objectives
+* Branching
+* Branching practice
+* More branching
+* More branching practice
+* Arrays
+* Arrays practice
+* JavaScript Reserved Words
+* Looping
+* Looping practice
+* Looping with for
+* For loop practice
+* Debugging in JavaScript
+* JavaScript code review
+* JS JSON 
+* jQuery objectives
+* Introducing jQuery
+* jQuery practice
+* Simple effects
+* jQuery effects practice
+* DOM manipulation and traversal
+* DOM manipulation and traversal practice
+* Forms
+* Forms practice
+* Attributes
+* jQuery attributes practice
+* JQuery Code Review
+* More JQuery Practice
+ 
