@@ -20,6 +20,7 @@
        * [True to Form](true_to_form.md)
        * [Tables](tables.md)
    * [Introduction to AngularJS](introduction_to_angularjs.md)
+       * AngularJS Objectives
 * Career Level
    * Career Classroom
        * [Communication Skills](communication_skills.md)
