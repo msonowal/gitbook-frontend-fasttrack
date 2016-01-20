@@ -23,5 +23,5 @@
    * Resume Preparation
        * [Your Linkedin Resume](your_linkedin_resume.md)
        * [Your Github Resume](your_github_resume.md)
-   * Interview Preparation
+   * [Interview Preparation](interview_preparation.md)
 
