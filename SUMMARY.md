@@ -7,7 +7,7 @@
        * [HTML and CSS basics objectives](html_and_css_basics_objectives.md)
        * [Text editor](text_editor.md)
    * [JavaScript basics](javascript_basics.md)
-       * JavaScript basics objectives
+       * [JavaScript basics objectives](javascript_basics_objectives.md)
 * [Level 2](level_2.md)
    * CSS Intermediate
        * [CSS Refresher](css_refresher.md)
