@@ -19,6 +19,7 @@
        * [Styling HTML Forms](styling_html_forms.md)
        * [True to Form](true_to_form.md)
        * [Tables](tables.md)
+   * Introduction to AngularJS
 * Career Level
    * Career Classroom
        * [Communication Skills](communication_skills.md)
