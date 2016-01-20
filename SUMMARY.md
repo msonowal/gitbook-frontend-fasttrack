@@ -17,12 +17,10 @@
        * [True to Form](true_to_form.md)
        * [Tables](tables.md)
 * Career Level
-   * Resume Preparation
-       * [Your Linkedin Resume](your_linkedin_resume.md)
-       * [Your Github Resume](your_github_resume.md)
    * Career Classroom
        * [Communication Skills](communication_skills.md)
        * Resume Preparation
-           * [Your Linkedin Resume](your_linkedin_resume.md)
-           * [Your Github Resume](your_github_resume.md)
+   * Resume Preparation
+       * [Your Linkedin Resume](your_linkedin_resume.md)
+       * [Your Github Resume](your_github_resume.md)
 
