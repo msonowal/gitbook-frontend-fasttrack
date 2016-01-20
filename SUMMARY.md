@@ -7,7 +7,6 @@
        * [HTML and CSS basics objectives](html_and_css_basics_objectives.md)
        * [Text editor](text_editor.md)
        * [HTML Layouts](html_layouts.md)
-       * [HTML Tags](html_tags.md)
 * [Level 2](level_2.md)
    * CSS Intermediate
        * [CSS Refresher](css_refresher.md)
