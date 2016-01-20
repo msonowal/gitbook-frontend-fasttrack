@@ -8,6 +8,7 @@
        * [Text editor](text_editor.md)
    * [JavaScript basics](javascript_basics.md)
        * [JavaScript basics objectives](javascript_basics_objectives.md)
+   * Introduction to Git
 * [Level 2](level_2.md)
    * CSS Intermediate
        * [CSS Refresher](css_refresher.md)
