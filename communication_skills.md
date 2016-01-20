@@ -1,6 +1,5 @@
 # Communication Skills
 
-
 Most candidates have a misconception that, HR interview is a mere formality to give you an offer letter. Although in few cases, it is true, but in this current competitive market scenario, it isn’t true with most recruiters.
 
  
