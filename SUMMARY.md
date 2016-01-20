@@ -26,4 +26,5 @@
    * [Interview Preparation](interview_preparation.md)
        * Technical Interview
            * [HTML5/CSS3 Questions](html5css3_questions.md)
+           * JQuery Questions
 
