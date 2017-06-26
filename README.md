@@ -15,11 +15,10 @@ Level 1 is designed to take you from zero experience to being able to create a b
 **Level 2 - Technical**  
 By the second level of the course, students would have honed the ability to thrive within the constantly shifting software engineering landscape, frequently working on projects based on technologies not explicitly covered in our curriculum. Get a better understanding of Javascript.
 
-**Level 3 - Career Level**  
-The program culminates with student live projects and soft skills training, so that students have the ability to articulate their skills to employers and get placed at first attempt.
+**Level 3 - Assignments and TODOs**  
+The program culminates with student live projects, so that students have the ability to articulate their skills to be used in real-world scenarios.
 
 Okay, let's get going; All the best!
 
 Team  
 Conversion Bug
-

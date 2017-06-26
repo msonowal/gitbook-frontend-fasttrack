@@ -8,8 +8,8 @@ To create a local clone, find the GitHub repository URL and copy it - either fro
 
 In the terminal, navigate to the directory to store the cloned repository and run git clone with the chosen repo's URL:
 ```
-$ git clone https://github.com/epicodus_examples/title_case_sinatra
-Cloning into 'title_case'...
+$ git clone https://github.com/vendor/package_name
+Cloning into 'package_name'...
 remote: Counting objects: 14, done.
 remote: Total 14 (delta 0), reused 0 (delta 0), pack-reused 14
 Unpacking objects: 100% (14/14), done.
