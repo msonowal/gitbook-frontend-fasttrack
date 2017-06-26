@@ -20,10 +20,8 @@ Now, double-click the file you just created (in Finder if you're on a Mac, or in
 
 Free text editors:
 
+SublimeText https://www.sublimetext.com/ (Free to try indefinetly)
+Atom https://atom.io/ (Free)
+Visual Studio Code https://code.visualstudio.com/ (Free)
 Notepad (included with Windows)
 TextEdit (included with Macs)
-Professional text editor:
-
-Sublime Text
-Costs $70, but free to try indefinitely
-
