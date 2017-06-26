@@ -18,4 +18,6 @@
     * [Styling HTML Forms](styling_html_forms.md)
     * [True to Form](true_to_form.md)
     * [Tables](tables.md)
+* [Assignments](assignments.md)
+  * [Excercise](assignments/excercise.md)
 
