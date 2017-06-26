@@ -4,7 +4,7 @@ Often, we'll want a local copy of a public repository on our local devices. This
 
 To create a local clone, find the GitHub repository URL and copy it - either from the address bar or with the copy to clipboard button (see red boxes below).
 
-![An image of a cookie](https://dl.dropboxusercontent.com/s/23p3j6idtlgg3y4/git-clone.png)
+![](git_clone.png)
 
 In the terminal, navigate to the directory to store the cloned repository and run git clone with the chosen repo's URL:
 ```
