@@ -28,21 +28,12 @@
     * Behavior-driven development (BDD)
     * Red-Green-Refactor
     * Refactoring: Functions calling functions
-    * JavaScript BDD Code Review: Level 2 Placement Test
 4. **Javascript Assignments**
     * Leap year, Triangle Tracker, Factorial, Cryptosquare
     * Pig Latin, Palindromes, Prime sifting
     * Black Jack or Meetup Dates
     * 99 bottles of coke, Roman numerals, Word Order, Bases
-5. **Introduction to AngularJS**
-    * AngularJS objectives
-    * Getting started with AngularJS
-    * Adding methods and forms
-    * Two-way binding
-    * Filtering in Angular
-    * Multiple controllers and factories
-    * Routing and nested states
-6. **Sass**
+5. **Sass**
     * What is Sass?
     * Learning Sass
     * Installing and using Sass
