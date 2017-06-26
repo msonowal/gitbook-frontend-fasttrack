@@ -9,7 +9,7 @@ If learning how to program sounds a bit overwhelming, don't worry! The curriculu
 
 Check out the table of contents to see an overview of all the sections.
 
-**Level 1 - Technical**  
+**Level 1 - Introduction and Beginner**  
 Level 1 is designed to take you from zero experience to being able to create a basic web page that displays information with the presentation language HTML and style it with CSS. Understand the basics of Javascript and get a good understanding of jQuery.
 
 **Level 2 - Technical**  
@@ -22,3 +22,4 @@ Okay, let's get going; All the best!
 
 Team  
 Conversion Bug
+
