@@ -19,5 +19,7 @@
     * [True to Form](true_to_form.md)
     * [Tables](tables.md)
 * [Assignments](assignments.md)
-  * [Excercise](assignments/excercise.md)
+  * [All](assignments/task1.md)
+* [Important TODOs](level-3.md)
+  * [Tooling](level-3/package-managers.md)
 
