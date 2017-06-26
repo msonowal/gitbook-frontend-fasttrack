@@ -5,7 +5,7 @@
   * HTML and CSS basics
     * [HTML and CSS basics objectives](html_and_css_basics_objectives.md)
     * [Text editor](text_editor.md)
-  * Introduction to Git
+  * [Introduction to Git](introduction-to-git.md)
     * [Git clone](git_clone.md)
     * [Git with Teams](git_with_teams.md)
   * [JavaScript basics](javascript_basics.md)
