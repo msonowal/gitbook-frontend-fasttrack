@@ -1,6 +1,5 @@
 # HTML and CSS basics objectives
 
-
 Welcome to Introduction to Programming!
 
 In this Level, we will be learning the building blocks of making responsive web pages. You will be working with the following tools:
@@ -26,3 +25,4 @@ Style a static webpage using custom CSS rules in a linked stylesheet
 Apply Bootstrap rules and classes
 
 Adapt a webpage for responsive design
+

@@ -1,4 +1,4 @@
-## Welcome
+# Introduction
 
 Hi! Welcome to FastTrack course for Frontend Development. This is a step-by-step guide to take you from zero experience to Front End Developer and contains everything you need, including lessons and practice exercises. The content you see here is the same curriculum at Epicodus, a Coding School in Portland, OR \(USA\).
 

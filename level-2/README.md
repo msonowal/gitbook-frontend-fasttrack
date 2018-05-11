@@ -44,5 +44,3 @@
    * Sass Assignment \#2
    * Sass Resources
 
-
-

@@ -1,5 +1,7 @@
 # Git with Teams
 
+## Git with Teams
+
 To work on a team project, we need to take advantage of some Git functionality that we haven't needed to use previously on our pair projects: branching and merging.
 
 Below is a broad overview of how your changes can be added to the shared repository for your team project.
@@ -25,13 +27,15 @@ The workflow for working in a team follows these steps.
 * **git branch**: lists current branches with an asterisk by the current branch
 * **git branch** -D branch-name: delete the branch named branch-name
 * **git merge branch-name**: merge branch-name into the current branch
+
   -** git clone remote-name**: creates a local repository from a remote repository
+
 * **git remote**: lists currently associated remote repositories
 * **git remote add remote-name url**: adds a new remote repository with the name remote-name using the URL of the remote repo on github
 * **git push remote-name branch-name**: pushes your branch \(branch-name\) to a remote repository \(remote-name\)
 * **git pull remote-name branch-name**: pull the latest changes from a remote repository to your repository \(e.g. git pull origin master\)
 
-# Summary
+## Summary
 
 git checkout `-b _branch-name_`: creates and checks out a new branch named branch-name git branch: lists current branches with an asterisk to indicate the one you're currently on git branch -D`_branch-name_`: delete the branch named branch-name git merge`_branch-name_`: merge branch-name into the current branch git clone `_remote-name_`: creates a local repository from a remote repository git remote: lists currently associated remote repositories git remote add `_remote-name_ _url_`: adds a new remote repository with the name remote-name using the URL of the remote repo on github git push remote-name `_branch-name_`: pushes your branch \(branch-name\) to a remote repository \(remote-name\) git pull remote-name `_branch-name_`: pull the latest changes from a remote repository to your repository \(e.g. git pull origin master\)
 
