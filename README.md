@@ -21,5 +21,5 @@ The program culminates with student live projects, so that students have the abi
 Okay, let's get going; All the best!
 
 Team  
-Conversion Bug
+Clarity Tech
 
